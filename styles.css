@@ -155,7 +155,7 @@ padding: 40;
 }
 
 .flex-container {
-    display: inline-flex
+    display: flex;
 }
   
 .flex-container > div {
