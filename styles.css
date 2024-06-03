@@ -155,15 +155,14 @@ padding: 40;
 }
 
 .flex-container {
-    display: inline-flexbox;
+    display: flex;
+    flex-direction:row;
 }
   
-.flex-container > div {
-    width: 80px;
-    margin: 10px;
-    text-align: center;
-    line-height: 100px;
-    font-size: 30px;
+@media (max-width: 800px) {
+    .flex-container {
+        flex-direction: column;
+    }
 }
 
 
