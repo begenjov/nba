@@ -172,7 +172,7 @@ padding: 40;
 }
 
 .flex-box {
-    display: inline-flex
+    display: flex
 }
   
 .flex-box > div {
