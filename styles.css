@@ -11,8 +11,6 @@
 #lakers {
     width: 400px;
     height: 250px;
-    vertical-align: middle;
-    margin:  0px 0px;
     vertical-align: right; 
     margin: 0px 0px;
 }
@@ -20,18 +18,13 @@
 #warriors {
     width: 220px;
     height: 265px;
-    vertical-align: middle; 
-    margin: 0px 0px;
     vertical-align: left; 
     margin: 0px 0px;
 }
 
 #boston { 
-    margin: 0px 0px;
     width:300px;
     height:300px; 
-    vertical-align:middle;
-    color: blue;
     vertical-align: left; 
     margin: 0px 0x;
 }
@@ -40,38 +33,30 @@
     vertical-align: middle; 
     width: 300px;
     height:300px; 
-    vertical-align:middle;
     color: blue;
     vertical-align: right; 
     margin: 0px 0px;
 }
 
-#memphis {
-    vertical-align: middle; 
-    margin: 0px 0px;
+#memphis { 
     width:260px;
     height:300px; 
-    vertical-align:middle;
     color: blue;
     vertical-align: left; 
     margin: 0px 0px;
 }
 
 #hornets {
-    vertical-align: middle; 
     width:260px;
     height:300px; 
-    vertical-align:middle;
     color: blue;
     vertical-align: right; 
     margin: 0px 0px;
 }
 
-#spurs {
-    vertical-align: middle; 
+#spurs { 
     width:400px;
     height:250px; 
-    vertical-align:middle;
     color: blue;
     vertical-align: left; 
     margin: 0px 0px;
