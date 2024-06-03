@@ -1,5 +1,5 @@
 .navItem {
-    padding: 20px;
+    padding: 30px;
     transition: transform .2s; 
     margin: 0;
   }
@@ -11,21 +11,21 @@
 #lakers {
     width: 400px;
     height: 250px;
-    vertical-align: center; 
-    margin: 0px 0px;
+    vertical-align: right; 
+    margin: 0px 100px;
 }
 
 #warriors {
     width: 220px;
     height: 265px;
-    vertical-align: center; 
+    vertical-align: right; 
     margin: 0px 0px;
 }
 
 #boston { 
     width:300px;
     height:300px; 
-    vertical-align: center; 
+    vertical-align: right; 
     margin: 0px 0x;
 }
 
@@ -34,7 +34,7 @@
     width: 300px;
     height:300px; 
     color: blue;
-    vertical-align: center; 
+    vertical-align: right; 
     margin: 0px 0px;
 }
 
@@ -42,7 +42,7 @@
     width:260px;
     height:300px; 
     color: blue;
-    vertical-align: center; 
+    vertical-align: right; 
     margin: 0px 0px;
 }
 
@@ -50,7 +50,7 @@
     width:260px;
     height:300px; 
     color: blue;
-    vertical-align: center; 
+    vertical-align: right; 
     margin: 0px 0px;
 }
 
@@ -58,7 +58,7 @@
     width:400px;
     height:250px; 
     color: blue;
-    vertical-align: center; 
+    vertical-align: right; 
     margin: 0px 0px;
 }
 
